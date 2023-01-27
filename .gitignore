@@ -1,0 +1,6 @@
+**/.ipynb_checkpoints/*
+data
+terraform_gcp/.terraform-version
+terraform_gcp/.terraform.lock.hcl
+terraform_gcp/terraform.tfstate
+terraform_gcp/.terraform/*
